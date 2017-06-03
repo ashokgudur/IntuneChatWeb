@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntuneChatServer.Web", "IntuneChatServer.Web\IntuneChatServer.Web.csproj", "{345E8382-FB55-490C-B9B3-522059A9E1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntuneChat.Model", "IntuneChat.Model\IntuneChat.Model.csproj", "{98C56347-1A3E-467B-BDE3-05F51660D5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345E8382-FB55-490C-B9B3-522059A9E1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345E8382-FB55-490C-B9B3-522059A9E1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345E8382-FB55-490C-B9B3-522059A9E1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345E8382-FB55-490C-B9B3-522059A9E1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C56347-1A3E-467B-BDE3-05F51660D5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C56347-1A3E-467B-BDE3-05F51660D5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C56347-1A3E-467B-BDE3-05F51660D5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C56347-1A3E-467B-BDE3-05F51660D5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
