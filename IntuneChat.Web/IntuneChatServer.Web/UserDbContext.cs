@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-
-namespace IntuneChatServer.Web
+﻿namespace IntuneChatServer.Web
 {
     public class UserDbContext : DbContextBase
     {
