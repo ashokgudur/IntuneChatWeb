@@ -1,9 +1,7 @@
 ﻿using IntuneChat.Model;
 using Microsoft.AspNet.SignalR;
-using System;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace IntuneChatServer.Web
 {
